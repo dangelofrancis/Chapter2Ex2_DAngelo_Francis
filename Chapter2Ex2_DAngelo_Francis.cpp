@@ -14,6 +14,7 @@ int main()
     int number1;
     int number2;
     int answer;
+    cout << "This is a test..." << endl;
     cout << "Please enter a number!" << endl;
     cin >> number1;
     cout << "Please enter a second number!" << endl;
